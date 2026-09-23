@@ -22,6 +22,12 @@ src/          可重用的資料處理與模型程式
 
 - [釣魚網站特徵（繁體中文翻譯）](docs/釣魚網站特徵_繁體中文翻譯.docx)
 
+## 共用資料夾
+
+- [Google Drive：phishing+websites](https://drive.google.com/drive/folders/1S328-ka_vv9KE7T6_R-LrpgL6kVTrYZz?usp=share_link)
+
+此連結供團隊存取共用資料；存取權限以 Google Drive 的分享設定為準。Repo 與 Drive 不會自動同步。
+
 ## 開始協作
 
 1. Clone 此 repo。
