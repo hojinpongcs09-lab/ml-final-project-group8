@@ -1,0 +1,32 @@
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local datasets and generated artifacts
+/data/
+/models/
+/outputs/
+/runs/
+*.joblib
+*.pkl
+*.pt
+*.pth
+*.h5
+*.keras
